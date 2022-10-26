@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nqc91CtBdHHInmGy/VlZik8ODi497CQJUy2XKr3mferVaqyLF69gwh1cKLgp8BvAJZSafc9bvgi4wTX/ib0wGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\prepod\\source\\repos\\MVVMLearn\\MVVMLearn\\MVVMLearn.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prepod\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
